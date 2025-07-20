@@ -20,3 +20,4 @@ FitBox : Packaging optimization solution using 2D image-based 3D estimation
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/ff0ce37d-df9a-4e69-b20a-594be0d9718d" />
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/c87b412f-bb39-40e0-a6d7-3a4dd6b06080" />
+
