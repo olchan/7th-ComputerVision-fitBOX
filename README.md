@@ -1,6 +1,8 @@
 # 7th-ComputerVision-fitBOX
 FitBox : Packaging optimization solution using 2D image-based 3D estimation
 
+👉 [심화 프로젝트 컨퍼런스 발표 자료 보기](https://canva.link/jxnbkaw3vxya7ml)
+
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/df1d6c07-a84a-4d19-8146-e6043191d27a" />
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/05fd5315-8216-42db-ab99-c4ecafa6a95c" />
